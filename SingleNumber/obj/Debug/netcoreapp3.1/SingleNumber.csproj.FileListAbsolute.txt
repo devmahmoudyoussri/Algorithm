@@ -1,0 +1,13 @@
+E:\algorithms\workspace\devmahmoudyoussri\Algorithm\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.exe
+E:\algorithms\workspace\devmahmoudyoussri\Algorithm\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.deps.json
+E:\algorithms\workspace\devmahmoudyoussri\Algorithm\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.runtimeconfig.json
+E:\algorithms\workspace\devmahmoudyoussri\Algorithm\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.runtimeconfig.dev.json
+E:\algorithms\workspace\devmahmoudyoussri\Algorithm\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.dll
+E:\algorithms\workspace\devmahmoudyoussri\Algorithm\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.pdb
+E:\algorithms\workspace\devmahmoudyoussri\Algorithm\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.csprojAssemblyReference.cache
+E:\algorithms\workspace\devmahmoudyoussri\Algorithm\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.AssemblyInfoInputs.cache
+E:\algorithms\workspace\devmahmoudyoussri\Algorithm\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.AssemblyInfo.cs
+E:\algorithms\workspace\devmahmoudyoussri\Algorithm\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.csproj.CoreCompileInputs.cache
+E:\algorithms\workspace\devmahmoudyoussri\Algorithm\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.dll
+E:\algorithms\workspace\devmahmoudyoussri\Algorithm\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.pdb
+E:\algorithms\workspace\devmahmoudyoussri\Algorithm\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.genruntimeconfig.cache
